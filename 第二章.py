@@ -28,3 +28,18 @@ print(np.var(c))#方差
 returns = np.diff(np.log(c))#对数收益率
 print(returns)
 print(np.where(returns>0))
+print('')
+
+import sys
+from matplotlib.pyplot import plot
+from matplotlib.pyplot import show
+print('--------------------')
+weights = [0, 1, 0.5]
+c = [1, 2, 3]
+sma = np.convolve([1, 2, 3], [0.5,0.5, 0.5])#卷积，补充卷积概念
+print(sma)
+t = np.arange(3)
+plot(t,c[:],lw=1.0)
+t = np.arange(len(sma))
+plot(t,sma,lw=2.0)
+show()
