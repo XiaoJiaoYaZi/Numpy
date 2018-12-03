@@ -1,69 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="235c9873-d4f9-42b5-83d4-ed5290ee8d25" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/Pandas基础.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/aapl_stock.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/amzn_stock.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/backup/Restaurant_Inspection_Open_Data_Dictionary_082214.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/backup/crime.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/backup/imdb5000 copy.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/baseball14.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/baseball15.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/baseball16.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/chinook.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/college.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/college_data_dictionary.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/college_diversity.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/crime.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/denver_neigh_pop.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/denver_neighborhood_pop.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/denver_pop.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/descriptions/airlines.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/descriptions/airports.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/descriptions/ch09_05_erd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/descriptions/college_decsription.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/descriptions/crime_description.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/descriptions/diamonds_description.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/descriptions/employee_description.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/descriptions/flights_description.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/descriptions/meetup_description.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/descriptions/movie_decsription.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/diamonds.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/employee.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/flights.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/food_prices.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/food_transactions.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/gas prices/all grades.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/gas prices/diesel.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/gas prices/midgrade.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/gas prices/premium.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/gas prices/regular.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/meetup_groups.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/movie.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/movie_altered.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/names.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/restaurant_inspections.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sensors.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/slb_stock.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/stackme.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/state_fruit.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/state_fruit2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/stocks_2016.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/stocks_2017.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/stocks_2018.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/texas_cities.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/weight_loss.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/weightlifting.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/weightlifting_men.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/weightlifting_women.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PycharProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PycharProject.iml" afterDir="false" />
+    <list default="true" id="14c9905b-0a8e-4b25-b2b8-13c29ea35d4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Numpy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PycharProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas/Pandas基础.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas/Pandas基础.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,82 +16,51 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="87485581">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="csv" value="1" />
-          <entry key="py" value="3" />
+          <entry key="csv" value="6" />
+          <entry key="py" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CSV" value="5" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="3" />
+          <entry key="Python" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="118" />
+          <entry key="Pandas基础" value="44" />
+          <entry key="py" value="1236" />
+          <entry key="txt" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="118" />
+          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="Python" value="1280" />
         </counts>
       </usages-collector>
     </session>
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Numpy" />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Numpystudy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第二章.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pandas/Pandas基础.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="305">
+              <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -155,22 +69,20 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/pandas/core/config.py">
+        <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/pandas/core/frame.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6069">
-              <caret line="363" column="52" selection-start-line="363" selection-start-column="52" selection-end-line="363" selection-end-column="52" />
+            <state relative-caret-position="-52">
+              <caret line="3575" column="21" selection-start-line="3575" selection-start-column="21" selection-end-line="3575" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>actor_director_facebook_likes</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -178,8 +90,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Numpystudy.py" />
-        <option value="$PROJECT_DIR$/第二章.py" />
+        <option value="$PROJECT_DIR$/Pandas/movie.csv" />
         <option value="$PROJECT_DIR$/Pandas/Pandas基础.py" />
       </list>
     </option>
@@ -191,8 +102,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="840" />
-    <option name="height" value="1010" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -220,13 +133,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GitHub/welink/MsgTest" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\users\welink\documents\Numpy\data" />
-    </key>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -240,53 +147,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Pandas基础">
-    <configuration name="第二章" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PycharProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Numpystudy" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PycharProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Numpystudy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="Pandas基础" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PycharProject" />
+      <module name="Numpy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -304,66 +167,73 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.Numpystudy" />
-      <item itemvalue="Python.第二章" />
-      <item itemvalue="Python.Pandas基础" />
-    </list>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Numpy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Pandas基础" />
-        <item itemvalue="Python.第二章" />
-        <item itemvalue="Python.Numpystudy" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration>C:\Users\lqd\AppData\Roaming\Subversion</configuration>
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="235c9873-d4f9-42b5-83d4-ed5290ee8d25" name="Default" comment="" />
-      <created>1517140693749</created>
+      <changelist id="14c9905b-0a8e-4b25-b2b8-13c29ea35d4e" name="Default Changelist" comment="" />
+      <created>1543817088244</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1517140693749</updated>
+      <updated>1543817088244</updated>
     </task>
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.13605899" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.50141644" side_tool="true" weight="0.13605899" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12399464" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40549102" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Python Console" order="9" visible="true" weight="0.31085044" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.25073314" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49588478" weight="0.25938338" />
-      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="4" sideWeight="0.5041152" side_tool="true" weight="0.25938338" />
-      <window_info anchor="right" id="Database" order="5" sideWeight="0.4979424" weight="0.2386059" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.4970646" visible="true" weight="0.26876676" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="4" sideWeight="0.5029354" side_tool="true" weight="0.26876676" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,56 +243,91 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-1282051629/numpy/core/multiarray.py" />
-    <entry file="file://$PROJECT_DIR$/eye.txt">
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/pandas/core/base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="-277">
+          <caret line="1007" column="19" selection-start-line="1007" selection-start-column="19" selection-end-line="1007" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data.csv">
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/dask/dataframe/core.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+        <state relative-caret-position="160">
+          <caret line="458" column="8" selection-start-line="458" selection-start-column="8" selection-end-line="458" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/numpy/lib/function_base.py">
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/pandas/io/parsers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="3340" column="4" selection-start-line="3340" selection-start-column="4" selection-end-line="3340" selection-end-column="4" />
+        <state relative-caret-position="346">
+          <caret line="685" selection-start-line="685" selection-end-line="685" />
+          <folding>
+            <element signature="e#21897#26667#0" />
+            <element signature="e#26984#27605#0" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/backup/crime.csv">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Numpystudy.py">
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/pandas/core/generic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+        <state relative-caret-position="160">
+          <caret line="8835" column="12" selection-start-line="8835" selection-start-column="12" selection-end-line="8835" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第二章.py">
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/pandas/core/frame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        <state relative-caret-position="-52">
+          <caret line="3575" column="21" selection-start-line="3575" selection-start-column="21" selection-end-line="3575" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/pandas/core/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6069">
-          <caret line="363" column="52" selection-start-line="363" selection-start-column="52" selection-end-line="363" selection-end-column="52" />
+    <entry file="file://$PROJECT_DIR$/Pandas/movie.csv">
+      <provider editor-type-id="csv-text-editor">
+        <state>
+          <caret column="454" selection-start-column="454" selection-end-column="454" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="csv-table-editor">
+        <state showInfoPanel="false" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+          <column index="3" width="100" />
+          <column index="4" width="100" />
+          <column index="5" width="100" />
+          <column index="6" width="100" />
+          <column index="7" width="100" />
+          <column index="8" width="100" />
+          <column index="9" width="100" />
+          <column index="10" width="100" />
+          <column index="11" width="100" />
+          <column index="12" width="100" />
+          <column index="13" width="100" />
+          <column index="14" width="100" />
+          <column index="15" width="100" />
+          <column index="16" width="100" />
+          <column index="17" width="100" />
+          <column index="18" width="100" />
+          <column index="19" width="100" />
+          <column index="20" width="100" />
+          <column index="21" width="100" />
+          <column index="22" width="100" />
+          <column index="23" width="100" />
+          <column index="24" width="100" />
+          <column index="25" width="100" />
+          <column index="26" width="100" />
+          <column index="27" width="80" />
+          <column index="28" width="63" />
+          <column index="29" width="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pandas/Pandas基础.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        <state relative-caret-position="305">
+          <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
