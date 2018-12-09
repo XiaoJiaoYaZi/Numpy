@@ -40,15 +40,33 @@ college = pd.read_csv('../data/college.csv')
 college_ugds_ = college.filter(like='UGDS_')
 result = college_ugds_ == 'asdf'
 
+sum_nan = (college_ugds_ == np.nan).sum()
+
+ugd_count = college_ugds_.count(axis=0)
+
+# 使用累积求和cumsum()可以很容易看到白人、黑人、西班牙裔的比例
+college_ugds_cumsum = college_ugds_.cumsum(axis=1)
+
+# UGDS_HISP一列降序/升序排列
+college_ugds_cumsum_sort=college_ugds_cumsum.sort_values("UGDS_BLACK",ascending=True)
+
+###########
 
 
+# 如果所有列都是缺失值，则将其去除
+college_ugds_ = college_ugds_.dropna(how='all')
 
 
+# 用大于或等于方法ge()，将DataFrame变为布尔值矩阵
+diversity_metric = college_ugds_.ge(.15).sum(axis='columns')
 
+# 使用value_counts()，查看分布情况
+diversity_metric.value_counts()
 
+## 查看哪些学校种群比例超过15%的数量多
+diversity_metric.sort_values(ascending = False).head()
 
-
-
+# 用loc()方法查看对应行索引的行
 
 
 
