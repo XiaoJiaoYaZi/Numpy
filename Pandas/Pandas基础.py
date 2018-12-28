@@ -7,7 +7,7 @@ pd.set_option('max_columns',8,'max_rows',10)
 movies = pd.read_csv('../data/movie.csv')
 #head默认查看前5行数据,head(n)查看前n行
 print(movies.head())
-
+pd
 #提取列索引
 columns = movies.columns
 #提取行索引
@@ -132,7 +132,6 @@ head_rename = movies.rename(index=idx_rename,columns=col_rename).head()
 index_list = movies.index.tolist()
 column_list = movies.columns.tolist()
 
-
 #添加和删除列
 movies['has_seen'] = 0
 
@@ -145,6 +144,7 @@ profix_index = movies.columns.get_loc('gross')+1
 movies.insert(loc= profix_index,column='profix',value=movies['gross']-movies['budget'])
 movies.drop(columns = ['has_seen',],axis=1)
 #has_seen = movies['has_seen'].head()
+movies = movies.T
 movies.to_csv('movie.csv')
 
 
